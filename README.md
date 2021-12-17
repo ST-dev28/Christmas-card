@@ -1,1 +1,0 @@
-[CARD](https://st-dev28.github.io/Xmas-card/)
