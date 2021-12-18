@@ -1,0 +1,2 @@
+
+document.getElementById('audiotag').play();
