@@ -10,6 +10,7 @@ body * {
 
 body{
     display: flex;
+    flex-basis: auto;
     height: 100vh; 
     background: hsl(0, 0%, 90%);
     background-image: url('img/981611.jpg');
