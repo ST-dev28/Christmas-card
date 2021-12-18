@@ -41,6 +41,7 @@ div {
       text-align: center;
         --interval: 1s;
         display: flex;
+        flex-wrap: wrap;
         text-shadow: 
           0 0 10px var(--color1),
           0 0 20px var(--color2),
@@ -61,6 +62,21 @@ audio {
   position: fixed; 
   left: 5px; 
   height: 20px;
+}
+
+p {
+  display: flex;
+  flex-wrap: wrap;
+  bottom: 30px; 
+  position: fixed; 
+  left: 5px; 
+  font-size: 12px;
+  color: #fff;
+}
+
+a{
+  font-weight: 700;
+  color: aqua;
 }
 
 /*-- Animation Keyframes --*/
