@@ -57,10 +57,10 @@ div {
   --color2: gold;
   --color3: orange;
   --color4: darkred;*/
-  --color1: rgba(255, 255, 4, 0.701);
+  --color1: rgba(255, 255, 4, 0.362);
   --color2: rgb(249, 228, 110);
-  --color3: rgb(250, 191, 81);
-  --color4: rgb(157, 68, 68);
+  --color3: rgba(250, 191, 81, 0.767);
+  --color4: rgb(151, 93, 93);
 }
 
 audio {
